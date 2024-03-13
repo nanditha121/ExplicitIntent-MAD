@@ -1,5 +1,5 @@
 
-# Ex.No:2b Explicit Intents
+# Ex.No:4 Explicit Intents
 
 Develop program to create two screens , first screen will take one number input from user. After click on Factorial button, second screen will open and it should display factorial of the same number using Explicit Intents.
 
@@ -32,8 +32,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “Explicit Intents”.
-Developed by: Manoj Guna Sundar Tella.
-Registeration Number : 212221240026.
+Developed by: Narra Nanditha
+Registeration Number : 212221240111.
 */
 ```
 ### activity_main.xml
